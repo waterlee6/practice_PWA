@@ -1,0 +1,20 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "1만 시간의 법칙",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "시간의 법칙",
+  "start_url": "https://waterlee6.github.io/practice_PWA/",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "img/favicon.ico"
+    }
+  ],
+  "description": "1만 시간의 법칙은 전문가가 되기 위해 며칠이 걸리는지 계산해주는 서비스입니다.",
+  "display_override": [
+    "window-controls-overlay"
+  ]
+}
